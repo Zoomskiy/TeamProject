@@ -1,3 +1,4 @@
+Team project with 2 other people. 
 ## Link
 
 https://Fristail27.github.io/Progect
